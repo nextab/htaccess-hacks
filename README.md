@@ -12,7 +12,7 @@ To increase the memory_limit and the max_execution_time for your domain, create 
 
 ```
 memory_limit = 256M
-max_execution_time = 320
+max_execution_time = 360
 ```
 
 This will (after a minute or so) change the PHP variables to the values you set.
